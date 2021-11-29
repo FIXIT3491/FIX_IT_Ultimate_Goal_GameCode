@@ -1,3 +1,9 @@
+# Ultimate Goal 3491
+As the season has ended, this repo has been archived, and will no longer be updated.
+
+The "README" below is kept for historic purposes only.
+**************************************************************************************
+
 ## NOTICE
 
 This repository contains the public FTC SDK for the Ultimate Goal (2020-2021) competition season.
